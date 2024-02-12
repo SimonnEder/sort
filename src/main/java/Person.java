@@ -7,5 +7,9 @@ public class Person {
     private LocalDate dob;
     private int sizeInCm;
 
+    public static void main(String[] args) {
+
+
+    }
 
 }
